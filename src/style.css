@@ -1,0 +1,30 @@
+h2 {color: DarkBlue;
+    font-size: 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: white;}
+p { margin: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: white;
+    color: darkred;}
+li {display: grid;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    color: white;
+    font-weight: bold;
+    border-left: 5px solid #ccc;
+    border-right: 5px solid #ccc;
+    border-top: 5px solid #ccc;
+    border-bottom: 5px solid #ccc;
+    padding: 1rem;}
+ol {margin: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;}
+body {background: black;}
